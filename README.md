@@ -3,10 +3,10 @@ Adventure Works Dashboard ( Power BI / DAX )
 
 Tasks conducted across the entire business intelligence workflow:
 
-connecting and shaping the source data through power query
-building a relational model
-adding calculated columns and measures using DAX
-designing an interactive dashboard
+- connecting and shaping the source data through power query
+- building a relational model
+- adding calculated columns and measures using DAX
+- designing an interactive dashboard
 
 --- 
 ### Final Dashboard
