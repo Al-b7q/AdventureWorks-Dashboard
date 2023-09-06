@@ -11,15 +11,19 @@ Tasks conducted across the entire business intelligence workflow:
 --- 
 ### Final Dashboard
 
-![2023-09-05 21_52_58-AdventureWorks Report](https://github.com/Al-b7q/AdventureWorks-Dashboard/assets/144049398/f2010ef0-ad58-40aa-b753-ceb6d4742591)
+![1](https://github.com/Al-b7q/AdventureWorks-Dashboard/assets/144049398/c4d2b0db-d933-4066-a253-a5fa00078e76)
 
-![2023-09-05 21_56_17-AdventureWorks Report](https://github.com/Al-b7q/AdventureWorks-Dashboard/assets/144049398/78b671d1-17fe-4215-a78a-0fab075938fe)
+![1 1](https://github.com/Al-b7q/AdventureWorks-Dashboard/assets/144049398/1c9e3b8c-ae4d-499f-a204-6d35c2635414)
 
-![2023-09-05 21_56_33-AdventureWorks Report](https://github.com/Al-b7q/AdventureWorks-Dashboard/assets/144049398/9d4ba6cd-2041-4cab-a3a8-dce458cb780a)
 
-![2023-09-05 21_56_49-AdventureWorks Report](https://github.com/Al-b7q/AdventureWorks-Dashboard/assets/144049398/c361567e-bca7-4df0-90fd-b7847583fead)
+![1 2](https://github.com/Al-b7q/AdventureWorks-Dashboard/assets/144049398/9880f18b-d5a4-4045-bd2f-81655ce7e80f)
+
+![1 3](https://github.com/Al-b7q/AdventureWorks-Dashboard/assets/144049398/7589cf1a-29b9-4360-9da1-36820337bb1e)
+
+
 
 --- 
 ### Model View
 
-![2023-09-05 21_59_54-AdventureWorks Report](https://github.com/Al-b7q/AdventureWorks-Dashboard/assets/144049398/9f52cdae-f4a6-4902-80ef-d9685bc6eeea)
+![2](https://github.com/Al-b7q/AdventureWorks-Dashboard/assets/144049398/a3a1c34a-65ac-4a22-aed7-4ab19d0437f2)
+
